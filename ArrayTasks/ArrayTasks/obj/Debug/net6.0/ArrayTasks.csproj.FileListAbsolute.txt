@@ -1,0 +1,14 @@
+C:\Users\Gulgaz\Desktop\ArrayTasks\ArrayTasks\bin\Debug\net6.0\ArrayTasks.exe
+C:\Users\Gulgaz\Desktop\ArrayTasks\ArrayTasks\bin\Debug\net6.0\ArrayTasks.deps.json
+C:\Users\Gulgaz\Desktop\ArrayTasks\ArrayTasks\bin\Debug\net6.0\ArrayTasks.runtimeconfig.json
+C:\Users\Gulgaz\Desktop\ArrayTasks\ArrayTasks\bin\Debug\net6.0\ArrayTasks.dll
+C:\Users\Gulgaz\Desktop\ArrayTasks\ArrayTasks\bin\Debug\net6.0\ArrayTasks.pdb
+C:\Users\Gulgaz\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ArrayTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulgaz\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ArrayTasks.AssemblyInfoInputs.cache
+C:\Users\Gulgaz\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ArrayTasks.AssemblyInfo.cs
+C:\Users\Gulgaz\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ArrayTasks.csproj.CoreCompileInputs.cache
+C:\Users\Gulgaz\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ArrayTasks.dll
+C:\Users\Gulgaz\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net6.0\refint\ArrayTasks.dll
+C:\Users\Gulgaz\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ArrayTasks.pdb
+C:\Users\Gulgaz\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ArrayTasks.genruntimeconfig.cache
+C:\Users\Gulgaz\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ref\ArrayTasks.dll
